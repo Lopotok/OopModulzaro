@@ -1,2 +1,6 @@
-package Zoo;public interface NoseAble {
+package Zoo;
+
+public interface NoseAble {
+
+    void makeASound();
 }

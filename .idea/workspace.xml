@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="05a8e3f4-edfd-4af0-b805-cf1cff996135" name="Changes" comment="" />
+    <list default="true" id="05a8e3f4-edfd-4af0-b805-cf1cff996135" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bank/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bank/InsufficentMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank/InsufficentMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bank/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person/Friends.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person/Friends.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shape/Formula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/Formula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shape/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shape/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo/Eagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo/Flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo/NoseAble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo/NoseAble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo/Oviparou.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo/Oviparou.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo/Penguin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo/Reptile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo/Reptile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo/Snake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo/Turtle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo/Turtle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo/Viviparous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo/Viviparous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo/Zoo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,6 +62,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/b_mai/IdeaProjects/OOP/ENUM-1",
     "onboarding.tips.debug.path": "C:/Users/b_mai/IdeaProjects/OOPMODULZARO/OopModulzaro/src/Main.java"
   }
 }]]></component>
